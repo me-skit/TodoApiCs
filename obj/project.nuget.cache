@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "1MI/w6Jj2Y9ZZwcjJgjdgG7zf9+wj3T9an/iivShi+bzs5/Ql/a4xb7h2T8dPvMMUChviGiqyBT8v3tUqIuMpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Meme\\Desktop\\.Net\\TodoApiCs\\TodoApiCs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Meme\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Meme\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Meme\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Meme\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Meme\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Meme\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
